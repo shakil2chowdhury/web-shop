@@ -1,0 +1,11 @@
+.home-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 10rem;
+    padding-top: 2rem;
+    align-items: center;
+}
+
+.home-nav > a {
+    margin-right: 2rem;
+}
